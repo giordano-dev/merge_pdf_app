@@ -15,11 +15,6 @@ A simple and efficient Flutter application to merge two PDF files into one. This
 
 ---
 
-## Screenshots
-> Add relevant screenshots of your app, showing the interface and functionality.
-
----
-
 ## Technologies Used
 
 - **Framework**: [Flutter](https://flutter.dev)  
