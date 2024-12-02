@@ -1,6 +1,5 @@
 # Creating a README.md file for the Flutter PDF Merger App
 
-readme_content = """
 # PDF Merger App
 
 A simple and efficient Flutter application to merge two PDF files into one. This app provides an intuitive user experience, making it easy to select, combine, and save PDF documents in just a few steps.
